@@ -1,3 +1,3 @@
 # Mathematics Behind Principal Component Analysis
-<center>By Matthew O'Malley-Nichols</center>
-<center>MTH 341</center>
+<p style="text-align: center;">By Matthew O'Malley-Nichols</p>
+<p style="text-align: center;">MTH 341</p>
